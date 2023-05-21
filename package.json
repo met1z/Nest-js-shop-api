@@ -30,6 +30,7 @@
     "@types/bcrypt": "^5.0.0",
     "@types/express-session": "^1.17.7",
     "@types/passport": "^1.0.12",
+    "axios": "^1.4.0",
     "bcrypt": "^5.1.0",
     "class-validator": "^0.14.0",
     "express-session": "^1.17.3",
@@ -43,6 +44,7 @@
     "sequelize-typescript": "^2.1.5"
   },
   "devDependencies": {
+    "@faker-js/faker": "^8.0.1",
     "@nestjs/cli": "^9.0.0",
     "@nestjs/schematics": "^9.0.0",
     "@nestjs/testing": "^9.0.0",
